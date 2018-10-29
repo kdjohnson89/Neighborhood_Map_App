@@ -8,7 +8,7 @@ This project is a Google map showing different locations serving and selling bee
 
 To view live version, please visit: https://kdjohnson89.github.io/neighborhood-map-app/
 
-##Instructions
+## Instructions
 
 ### Required:
 1. Node/npm must be installed
