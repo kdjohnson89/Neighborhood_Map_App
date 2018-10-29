@@ -6,6 +6,8 @@ Created for project 7 in the Udacity Front End Web Development Nanodegree progra
 
 This project is a Google map showing different locations serving and selling beer in the 78729 area of Austin, TX. Venue information provided by FourSquare.
 
+To view live version, please visit: https://kdjohnson89.github.io/neighborhood-map-app/
+
 ##Instructions
 
 ### Required:
