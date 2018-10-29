@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#Neighborhood Bar Finder App
+# Neighborhood Beer Finder App
 
 Created for project 7 in the Udacity Front End Web Development Nanodegree program.
 
@@ -8,13 +8,13 @@ This project is a Google map showing different locations serving and selling bee
 
 ##Instructions
 
-###Required:
+### Required:
 1. Node/npm must be installed
 2. React
 3. Google Maps API key
 4. FourSquare API key
 
-###Installation:
+### Installation:
 1. Download files
 2. Navigate to main folder
 3. Run `npm install`
@@ -22,7 +22,7 @@ This project is a Google map showing different locations serving and selling bee
 5. Run `serve -s build`
 6. Project should open at `http://localhost:5000`
 
-##Resources
+## Resources
 1. Create-React-App - https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#making-a-progressive-web-app
 2. FourSquare Developers - https://foursquare.com/developers/apps
 3. Google APIs - https://console.developers.google.com/google/maps-apis/overview
@@ -32,5 +32,3 @@ This project is a Google map showing different locations serving and selling bee
 7. Snazzy Maps - https://snazzymaps.com/style/14889/flat-pale
 
 
-
-# Neighborhood_Map_App
